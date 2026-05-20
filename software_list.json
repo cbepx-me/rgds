@@ -1,0 +1,53 @@
+{
+  "last_updated": "2026-05-20T13:59:54Z",
+  "repository_name": "StockOS Software Repository",
+  "repository_version": "1.0.3",
+  "software": [
+    {
+      "id": "rixelhk",
+      "name": "RixelHK",
+      "version": "1.15",
+      "description_en": "RixelHK is an application designed to help users quickly download and install various games. It offers a wide range of game resources with one-click download and automatic installation features, streamlining the game download process. Users can browse by game category for a more seamless and personalized gaming experience.",
+      "description_zh": "RixelHK 是一款帮助用户快速下载、安装各类游戏的应用程序。它提供丰富的游戏资源支持一键下载和自动安装，简化了游戏下载过程。用户可以按游戏类型进行分类查找，为用户提供更流畅和个性化的游戏体验。",
+      "category": "tools",
+      "download_url": "RixelHK-H700-US-1.15-RC.zip",
+      "size": 24339990,
+      "md5": "9bf57e9825208b3d88435cead410595b",
+      "icon_url": "rixelhk.png",
+      "author": "RixelHK",
+      "screenshots": [
+        "rixelhk_1.jpg"
+      ],
+      "dependencies": [],
+      "compatibility": [],
+      "min_os_version": "",
+      "changelog_zh": "支持 H700 Linux 设备",
+      "changelog_en": "Support for H700 Linux devices",
+      "instruction_zh": "请到 APPS 中运行。",
+      "instruction_en": "Please run it in APPS."
+    },
+    {
+      "id": "Tiny_Scraper",
+      "name": "Tiny Scraper",
+      "version": "2.0",
+      "description_en": "Game ROM media scraper, auto-download screenshots.",
+      "description_zh": "游戏ROM媒体刮削器，自动下载截图。",
+      "category": "tools",
+      "download_url": "Tiny_Scraper.zip",
+      "size": 1072611,
+      "md5": "ab83b42a923614edfb0f34ee85cc73fb",
+      "icon_url": "Tiny_Scraper.png",
+      "author": "G.R.H",
+      "screenshots": [
+        "Tiny_Scraper.jpg"
+      ],
+      "dependencies": [],
+      "compatibility": [],
+      "min_os_version": "",
+      "changelog_zh": "",
+      "changelog_en": "",
+      "instruction_zh": "请到 APPS 中运行。",
+      "instruction_en": "Please run it in APPS."
+    }
+  ]
+}
