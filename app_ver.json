@@ -1,10 +1,10 @@
 {
-    "release_date": "2026-05-20 21:59:21",
+    "release_date": "2026-05-20 22:34:41",
     "app": {
         "version": "1.0.5",
         "filename": "app.tar.gz",
-        "md5": "32f2eaf40308824d675efa09a4a1268f",
-        "size": 12986405,
+        "md5": "341bdb105548d8502bf4083f49cc64fd",
+        "size": 12986413,
         "description": "Online servers program upgrade package"
     }
 }
