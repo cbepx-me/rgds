@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T13:59:54Z",
+  "last_updated": "2026-05-23T06:56:08Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.3",
   "software": [
@@ -46,6 +46,29 @@
       "min_os_version": "",
       "changelog_zh": "",
       "changelog_en": "",
+      "instruction_zh": "请到 APPS 中运行。",
+      "instruction_en": "Please run it in APPS."
+    },
+    {
+      "id": "ROCreader",
+      "name": "ROCreader",
+      "version": "2.0.9",
+      "description_en": "A comic reader suitable for Anbernic RGds devices.",
+      "description_zh": "一款漫画阅读器，适用于 Anbernic RGds 设备。",
+      "category": "tools",
+      "download_url": "ROCreader4rgds-2.09.zip",
+      "size": 42191552,
+      "md5": "ed13c0471532de98746b4eb21ab8066d",
+      "icon_url": "ROCreader.png",
+      "author": "Blood_roc",
+      "screenshots": [
+        "ROCreader.jpg"
+      ],
+      "dependencies": [],
+      "compatibility": [],
+      "min_os_version": "",
+      "changelog_zh": "https://github.com/LPF970915/ROCreader",
+      "changelog_en": "https://github.com/LPF970915/ROCreader",
       "instruction_zh": "请到 APPS 中运行。",
       "instruction_en": "Please run it in APPS."
     }
