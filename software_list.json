@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-23T06:56:08Z",
+  "last_updated": "2026-07-08T14:03:29Z",
   "repository_name": "StockOS Software Repository",
-  "repository_version": "1.0.3",
+  "repository_version": "1.0.5",
   "software": [
     {
       "id": "rixelhk",
@@ -48,6 +48,29 @@
       "changelog_en": "",
       "instruction_zh": "请到 APPS 中运行。",
       "instruction_en": "Please run it in APPS."
+    },
+    {
+      "id": "web_manager",
+      "name": "Web Manager",
+      "version": "1.0.0",
+      "description_en": "The Web Game Manager turns your Anbernic device into a web‑based ROM management center. You can browse, upload, delete, and preview games from any computer, phone, or tablet on the same Wi‑Fi network – no need to eject the SD card.",
+      "description_zh": "网络游戏管理器将您的Anbernic设备变成基于网络的ROM管理中心。您可以在同一Wi-Fi网络上的任何计算机、手机或平板电脑上浏览、上传、删除和预览游戏，无需弹出SD卡。",
+      "category": "tools",
+      "download_url": "web_manager_v1.0.0.zip",
+      "size": 14956452,
+      "md5": "4bcfa03ea29a56c5cdca852f1fd285b7",
+      "icon_url": "web_manager.png",
+      "author": "G.R.H",
+      "screenshots": [
+        "web_manager1.png"
+      ],
+      "dependencies": [],
+      "compatibility": [],
+      "min_os_version": "",
+      "changelog_zh": "https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification",
+      "changelog_en": "https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification",
+      "instruction_zh": "请到 应用中心 中运行。",
+      "instruction_en": "Please run it in App Center."
     },
     {
       "id": "ROCreader",
