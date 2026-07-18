@@ -1,7 +1,7 @@
 {
   "last_updated": "2026-07-08T14:03:29Z",
   "repository_name": "StockOS Software Repository",
-  "repository_version": "1.0.5",
+  "repository_version": "1.0.3",
   "software": [
     {
       "id": "rixelhk",
@@ -19,10 +19,12 @@
         "rixelhk_1.jpg"
       ],
       "dependencies": [],
-      "compatibility": [],
+      "compatibility": [
+        "RGds"
+      ],
       "min_os_version": "",
-      "changelog_zh": "支持 H700 Linux 设备",
-      "changelog_en": "Support for H700 Linux devices",
+      "changelog_zh": "",
+      "changelog_en": "",
       "instruction_zh": "请到 APPS 中运行。",
       "instruction_en": "Please run it in APPS."
     },
@@ -42,7 +44,9 @@
         "Tiny_Scraper.jpg"
       ],
       "dependencies": [],
-      "compatibility": [],
+      "compatibility": [
+        "RGds"
+      ],
       "min_os_version": "",
       "changelog_zh": "",
       "changelog_en": "",
@@ -65,7 +69,9 @@
         "web_manager1.png"
       ],
       "dependencies": [],
-      "compatibility": [],
+      "compatibility": [
+        "RGds"
+      ],
       "min_os_version": "",
       "changelog_zh": "https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification",
       "changelog_en": "https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification",
@@ -88,7 +94,9 @@
         "ROCreader.jpg"
       ],
       "dependencies": [],
-      "compatibility": [],
+      "compatibility": [
+        "RGds"
+      ],
       "min_os_version": "",
       "changelog_zh": "https://github.com/LPF970915/ROCreader",
       "changelog_en": "https://github.com/LPF970915/ROCreader",
