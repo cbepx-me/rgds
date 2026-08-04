@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T14:03:29Z",
+  "last_updated": "2026-08-04T13:01:47Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.3",
   "software": [
@@ -31,22 +31,20 @@
     {
       "id": "Tiny_Scraper",
       "name": "Tiny Scraper",
-      "version": "2.0",
+      "version": "2.1",
       "description_en": "Game ROM media scraper, auto-download screenshots.",
       "description_zh": "游戏ROM媒体刮削器，自动下载截图。",
       "category": "tools",
       "download_url": "Tiny_Scraper.zip",
-      "size": 1072611,
-      "md5": "ab83b42a923614edfb0f34ee85cc73fb",
+      "size": 1068893,
+      "md5": "6fbcb73b5527d9cebecea25d909f80ec",
       "icon_url": "Tiny_Scraper.png",
       "author": "G.R.H",
       "screenshots": [
         "Tiny_Scraper.jpg"
       ],
       "dependencies": [],
-      "compatibility": [
-        "RGds"
-      ],
+      "compatibility": [],
       "min_os_version": "",
       "changelog_zh": "",
       "changelog_en": "",
@@ -54,40 +52,15 @@
       "instruction_en": "Please run it in APPS."
     },
     {
-      "id": "web_manager",
-      "name": "Web Manager",
-      "version": "1.0.0",
-      "description_en": "The Web Game Manager turns your Anbernic device into a web‑based ROM management center. You can browse, upload, delete, and preview games from any computer, phone, or tablet on the same Wi‑Fi network – no need to eject the SD card.",
-      "description_zh": "网络游戏管理器将您的Anbernic设备变成基于网络的ROM管理中心。您可以在同一Wi-Fi网络上的任何计算机、手机或平板电脑上浏览、上传、删除和预览游戏，无需弹出SD卡。",
-      "category": "tools",
-      "download_url": "web_manager_v1.0.0.zip",
-      "size": 14956452,
-      "md5": "4bcfa03ea29a56c5cdca852f1fd285b7",
-      "icon_url": "web_manager.png",
-      "author": "G.R.H",
-      "screenshots": [
-        "web_manager1.png"
-      ],
-      "dependencies": [],
-      "compatibility": [
-        "RGds"
-      ],
-      "min_os_version": "",
-      "changelog_zh": "https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification",
-      "changelog_en": "https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification",
-      "instruction_zh": "请到 应用中心 中运行。",
-      "instruction_en": "Please run it in App Center."
-    },
-    {
       "id": "ROCreader",
       "name": "ROCreader",
-      "version": "2.0.9",
+      "version": "2.6.4",
       "description_en": "A comic reader suitable for Anbernic RGds devices.",
       "description_zh": "一款漫画阅读器，适用于 Anbernic RGds 设备。",
       "category": "tools",
-      "download_url": "ROCreader4rgds-2.09.zip",
-      "size": 42191552,
-      "md5": "ed13c0471532de98746b4eb21ab8066d",
+      "download_url": "ROCreader4rgds-2.64.zip",
+      "size": 44965079,
+      "md5": "1faff38a8c1ce9fb689e0bdaa1c4031b",
       "icon_url": "ROCreader.png",
       "author": "Blood_roc",
       "screenshots": [
