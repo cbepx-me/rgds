@@ -8,7 +8,7 @@ Download and install the modified version upgrade program for the official Linux
 (2) Wi-Fi internet connection
 
 **3. Installation and Launch**  
-(1) Unzip the `https://github.com/cbepx-me/rgds/releases/download/server/Modified_System_Online_Upgradev1.0.1_for_RGds.zip` file to obtain the `Modified_System_Online_Upgrade.sh` script and the `upgrade` folder.  
+(1) Unzip the [Modified_System_Online_Upgradev1.0.1_for_RGds.zip](https://github.com/cbepx-me/rgds/releases/download/server/Modified_System_Online_Upgradev1.0.1_for_RGds.zip) file to obtain the `Modified_System_Online_Upgrade.sh` script and the `upgrade` folder.  
 (2) Copy both the script and the folder to the `ROMS/APPS` folder or the `Ports` folder on the TF card.  
 (3) Insert the TF card, power on the device, go to `Applications` → `Apps` or `Ports`, and run `Modified_System_Online_Upgrade`.
 
