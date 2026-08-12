@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-08-04T13:01:47Z",
+  "last_updated": "2026-08-12T09:24:23Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.3",
   "software": [
+    {
+      "id": "bezels_arcade_6-4",
+      "name": "Vertical Arcade bezels",
+      "version": "1.0",
+      "description_en": "One on one dedicated bezels resources for vertical arcade games",
+      "description_zh": "竖版街机游戏一对一专用边框资源文件",
+      "category": "themes",
+      "download_url": "bezels_arcade_6-4.zip",
+      "size": 71640423,
+      "md5": "12f0d1acdecc27ae844b7dbe49009eaa",
+      "icon_url": "cbepx-me.png",
+      "author": "cbepx-me",
+      "screenshots": [
+        "bezels_arcade.png"
+      ],
+      "dependencies": [],
+      "compatibility": [],
+      "min_os_version": "",
+      "changelog_zh": "",
+      "changelog_en": "",
+      "instruction_zh": "",
+      "instruction_en": ""
+    },
     {
       "id": "rixelhk",
       "name": "RixelHK",
