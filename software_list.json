@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T03:49:49Z",
+  "last_updated": "2026-09-06T04:26:54Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.6",
   "software": [
@@ -85,7 +85,7 @@
       "category": "tools",
       "download_url": "netradio_v1.0.1.zip",
       "size": 4727907,
-      "md5": "db4965afb53b2740c8e98d0c5f9d09b1",
+      "md5": "ebd4e1c80c3407e6b077654e6367612a",
       "icon_url": "cbepx-me.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -109,7 +109,7 @@
       "category": "tools",
       "download_url": "nettv_v1.0.0.zip",
       "size": 4796276,
-      "md5": "77199f16e9046510e27701481ea6dee6",
+      "md5": "b542e1880b703f23611fa6755d4a1f9d",
       "icon_url": "cbepx-me.png",
       "author": "cbepx-me",
       "screenshots": [
