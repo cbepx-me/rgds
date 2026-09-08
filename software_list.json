@@ -150,6 +150,7 @@
     {
       "id": "rixelhk",
       "name": "RixelHK",
+      "name_zh": "RixelHK",
       "version": "1.15",
       "description_en": "RixelHK is an application designed to help users quickly download and install various games. It offers a wide range of game resources with one-click download and automatic installation features, streamlining the game download process. Users can browse by game category for a more seamless and personalized gaming experience.",
       "description_zh": "RixelHK 是一款帮助用户快速下载、安装各类游戏的应用程序。它提供丰富的游戏资源支持一键下载和自动安装，简化了游戏下载过程。用户可以按游戏类型进行分类查找，为用户提供更流畅和个性化的游戏体验。",
@@ -175,6 +176,7 @@
     {
       "id": "ROCreader",
       "name": "ROCreader",
+      "name_zh": "ROCreader",
       "version": "2.6.4",
       "description_en": "A comic reader suitable for Anbernic RGds devices.",
       "description_zh": "一款漫画阅读器，适用于 Anbernic RGds 设备。",
