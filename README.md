@@ -1,4 +1,4 @@
-**Anbernic RGds Official System Modified Upgrade Program v1.0.1**
+**Anbernic RGds/RGdsplus Official System Modified Upgrade Program**
 
 **1. Features**  
 Download and install the modified version upgrade program for the official Linux system online.
