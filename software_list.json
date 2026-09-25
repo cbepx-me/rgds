@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T14:40:54Z",
+  "last_updated": "2026-09-25T14:49:59Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.6",
   "software": [
@@ -109,7 +109,7 @@
       "category": "tools",
       "download_url": "nettv_v1.0.2.zip",
       "size": 4814660,
-      "md5": "e8ff0c4dc0ebe91a82dc7886d41b45b8",
+      "md5": "4b979845d578c2da325b700caa938963",
       "icon_url": "cbepx-me.png",
       "author": "cbepx-me",
       "screenshots": [
