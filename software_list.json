@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T07:24:20Z",
+  "last_updated": "2026-09-25T14:18:51Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.6",
   "software": [
@@ -103,13 +103,13 @@
       "id": "nettv",
       "name": "TV Live",
       "name_zh": "网络电视",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description_en": "TVLive is a live TV player designed for Anbernic handheld consoles",
       "description_zh": "TVLive 是一款轻量级直播电视播放器",
       "category": "tools",
-      "download_url": "nettv_v1.0.1.zip",
-      "size": 4796213,
-      "md5": "ca3ee8aacdab2c01d438b391fa54e30f",
+      "download_url": "nettv_v1.0.2.zip",
+      "size": 4850067,
+      "md5": "1896e75df319ae39b5e2da74f279adb4",
       "icon_url": "cbepx-me.png",
       "author": "cbepx-me",
       "screenshots": [
