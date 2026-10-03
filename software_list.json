@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T07:37:50Z",
+  "last_updated": "2026-10-03T11:01:37Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.6",
   "software": [
@@ -84,8 +84,8 @@
       "description_zh": "一款轻量级全屏网络电台播放器软件",
       "category": "tools",
       "download_url": "netradio_v1.0.3.zip",
-      "size": 4774473,
-      "md5": "b6078c3e4cb63b1dff124b81552f61c7",
+      "size": 4680441,
+      "md5": "c4e4037fd347d5ed2dd2dd23b18d03df",
       "icon_url": "cbepx-me.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -156,8 +156,8 @@
       "description_zh": "RixelHK 是一款帮助用户快速下载、安装各类游戏的应用程序。它提供丰富的游戏资源支持一键下载和自动安装，简化了游戏下载过程。用户可以按游戏类型进行分类查找，为用户提供更流畅和个性化的游戏体验。",
       "category": "tools",
       "download_url": "RixelHK-H700-US-1.15-RC.zip",
-      "size": 24339990,
-      "md5": "9bf57e9825208b3d88435cead410595b",
+      "size": 23659252,
+      "md5": "e55cb514e176ec48312ad3480af418ff",
       "icon_url": "rixelhk.png",
       "author": "RixelHK",
       "screenshots": [
@@ -182,8 +182,8 @@
       "description_zh": "一款漫画阅读器，适用于 Anbernic RGds 设备。",
       "category": "tools",
       "download_url": "ROCreader4rgds-2.64.zip",
-      "size": 44965079,
-      "md5": "1faff38a8c1ce9fb689e0bdaa1c4031b",
+      "size": 44037018,
+      "md5": "7b1d561a94002d2795b0b9c9f9ab7576",
       "icon_url": "ROCreader.png",
       "author": "Blood_roc",
       "screenshots": [
@@ -208,8 +208,8 @@
       "description_zh": "一款漫画阅读器，适用于 Anbernic RGdsplus 设备。",
       "category": "tools",
       "download_url": "ROCreader4rgdsplus-2.68.zip",
-      "size": 44971749,
-      "md5": "44912b1cfcc1a282f63b3d1eca1e11b6",
+      "size": 44043628,
+      "md5": "4a5c31cb08bd6a9d060cecf0aa307d7e",
       "icon_url": "ROCreader.png",
       "author": "Blood_roc",
       "screenshots": [
