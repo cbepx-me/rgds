@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T00:52:09Z",
+  "last_updated": "2026-10-25T07:56:43Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.6",
   "software": [
@@ -12,8 +12,8 @@
       "description_zh": "魔改系统用来定制默认的遮罩设置的软件。",
       "category": "tools",
       "download_url": "Bezel_Custom_Manager_v1.2.zip",
-      "size": 384620,
-      "md5": "4018d9adc8d788f3e8aa0f125d0c2aee",
+      "size": 384641,
+      "md5": "00e09871675718f8a0ad28c9203a7e6d",
       "icon_url": "icon.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -36,8 +36,8 @@
       "description_zh": "一款支持时钟，秒表，倒计时和时间设置功能的软件。",
       "category": "tools",
       "download_url": "clock_v1.3.zip",
-      "size": 585423,
-      "md5": "291261b092f3eefc0cc94e3ee88e5f36",
+      "size": 585442,
+      "md5": "6e95b608343cf954da46bc027e59176f",
       "icon_url": "icon.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -60,8 +60,8 @@
       "description_zh": "一款用来浏览图片的软件，支持幻灯片播放。",
       "category": "tools",
       "download_url": "Img_browser_v1.2.zip",
-      "size": 385768,
-      "md5": "919e9b6976e46f122cc5b5f8f7f25e24",
+      "size": 385789,
+      "md5": "c961d93adee1d7f046e27145829013d1",
       "icon_url": "icon.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -84,8 +84,8 @@
       "description_zh": "一款轻量级全屏网络电台播放器软件",
       "category": "tools",
       "download_url": "netradio_v1.0.3.zip",
-      "size": 403093,
-      "md5": "40e6836dd7484efc69e901bfb8384697",
+      "size": 403138,
+      "md5": "dc8ad594643dddf7b12d930d61269398",
       "icon_url": "cbepx-me.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -108,8 +108,8 @@
       "description_zh": "TVLive 是一款轻量级直播电视播放器",
       "category": "tools",
       "download_url": "nettv_v1.0.3.zip",
-      "size": 351691,
-      "md5": "ad04cfaadd904d200d86b6b10905651d",
+      "size": 351739,
+      "md5": "67421ffb0182d486f6c188d2be751277",
       "icon_url": "cbepx-me.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -156,8 +156,8 @@
       "description_zh": "RixelHK 是一款帮助用户快速下载、安装各类游戏的应用程序。它提供丰富的游戏资源支持一键下载和自动安装，简化了游戏下载过程。用户可以按游戏类型进行分类查找，为用户提供更流畅和个性化的游戏体验。",
       "category": "tools",
       "download_url": "RixelHK-H700-US-1.15-RC.zip",
-      "size": 23659252,
-      "md5": "e55cb514e176ec48312ad3480af418ff",
+      "size": 23659253,
+      "md5": "00828271a2aea2b6ed28bc7962d02c42",
       "icon_url": "rixelhk.png",
       "author": "RixelHK",
       "screenshots": [
@@ -182,8 +182,8 @@
       "description_zh": "一款漫画阅读器，适用于 Anbernic RGds 设备。",
       "category": "tools",
       "download_url": "ROCreader4rgds-2.64.zip",
-      "size": 44037018,
-      "md5": "7b1d561a94002d2795b0b9c9f9ab7576",
+      "size": 44037019,
+      "md5": "8eca80d0c4b55eed269fd3dbb83b4ef6",
       "icon_url": "ROCreader.png",
       "author": "Blood_roc",
       "screenshots": [
@@ -208,8 +208,8 @@
       "description_zh": "一款漫画阅读器，适用于 Anbernic RGdsplus 设备。",
       "category": "tools",
       "download_url": "ROCreader4rgdsplus-2.68.zip",
-      "size": 44043628,
-      "md5": "4a5c31cb08bd6a9d060cecf0aa307d7e",
+      "size": 44043629,
+      "md5": "3afaa5ef6460837590d4d66bea404657",
       "icon_url": "ROCreader.png",
       "author": "Blood_roc",
       "screenshots": [
