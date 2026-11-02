@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T07:56:43Z",
+  "last_updated": "2026-11-02T06:49:34Z",
   "repository_name": "StockOS Software Repository",
   "repository_version": "1.0.6",
   "software": [
@@ -12,8 +12,8 @@
       "description_zh": "魔改系统用来定制默认的遮罩设置的软件。",
       "category": "tools",
       "download_url": "Bezel_Custom_Manager_v1.2.zip",
-      "size": 384641,
-      "md5": "00e09871675718f8a0ad28c9203a7e6d",
+      "size": 384623,
+      "md5": "6ec721359460e1ee719bb6fcb13a5947",
       "icon_url": "icon.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -36,8 +36,8 @@
       "description_zh": "一款支持时钟，秒表，倒计时和时间设置功能的软件。",
       "category": "tools",
       "download_url": "clock_v1.3.zip",
-      "size": 585442,
-      "md5": "6e95b608343cf954da46bc027e59176f",
+      "size": 585430,
+      "md5": "19a4d6eb64064bc37e4bb4165ca836fd",
       "icon_url": "icon.png",
       "author": "cbepx-me",
       "screenshots": [
@@ -60,8 +60,8 @@
       "description_zh": "一款用来浏览图片的软件，支持幻灯片播放。",
       "category": "tools",
       "download_url": "Img_browser_v1.2.zip",
-      "size": 385789,
-      "md5": "c961d93adee1d7f046e27145829013d1",
+      "size": 385776,
+      "md5": "589a1c1ae770a8c6331eec618d9a4012",
       "icon_url": "icon.png",
       "author": "cbepx-me",
       "screenshots": [
